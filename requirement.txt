@@ -5,3 +5,9 @@ pip install pymango
 pip install PIL
 pip install datetime
 
+
+pandas==1.5.3
+Pillow==9.4.0
+pymongo==4.3.3
+snscrape==0.5.0.20230113
+streamlit==1.18.1
