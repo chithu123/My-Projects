@@ -3,11 +3,13 @@ Twitter Scraping with MongoDB and Streamlit
 This is a web-based Twitter scraping tool built with Python, using the Streamlit framework for the user interface, the Snscrape package for accessing Twitter data, and the MongoDB database to store the extracted tweets. The app allows users to search for tweets containing a specific hashtag or keyword within a given time frame, and view, download, and analyze the results in real-time.
 
 Acknowledgements
+
 •	GUVI
 •	Mentor Mr. BalaChander
 •	Streamlitdocs
 
 Installation
+
 To use this app, you need to have Python 3.x installed on your system, as well as the following Python packages:
 •	streamlit
 •	snscrape
