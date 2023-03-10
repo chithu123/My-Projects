@@ -41,6 +41,8 @@ The app has five menus that allow you to perform different tasks:
 4.	Display: This page shows the tweets that match the search criteria, in a table format. You can sort the tweets by different columns, and click on a tweet to see more details.
 5.	Download: This page allows you to download the tweets that match the search criteria, in CSV or JSON format.
 
+Demo Video Link: https://youtu.be/O28nXsIFZzs
+
 
 Screenshots
 Here are some screenshots of the app in action: 
