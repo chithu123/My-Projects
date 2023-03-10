@@ -1,0 +1,7 @@
+pip install snscrape
+pip install streamlit
+pip install pandas
+pip install pymango
+pip install PIL
+pip install datetime
+
